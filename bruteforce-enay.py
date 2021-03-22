@@ -21,7 +21,6 @@ z = """
 """
 
 
-import requests
 import time
 import sys
 
